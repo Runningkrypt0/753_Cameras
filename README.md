@@ -9,5 +9,5 @@ There are 2 options for using the system, the first is to download the main poly
 Some files may be compressed to LLBs
 
 Cameras Supported:
-[x] Axis Cam (FRC default)
-[ ] DCS-932L (D-Link)
+*  Axis Cam (FRC default)
+*  DCS-932L (D-Link)
